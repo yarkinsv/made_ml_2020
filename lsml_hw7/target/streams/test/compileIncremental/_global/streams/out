@@ -1,0 +1,57 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 0 products, 0 sources, 0 libraries
+[debug] current source = Set(${BASE}/src/test/scala/ru/made/lsml/StackSpec.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(${BASE}/src/test/scala/ru/made/lsml/StackSpec.scala), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] Full compilation, no sources in previous analysis.
+[debug] all 1 sources are invalidated
+[debug] Initial set of included nodes: 
+[debug] Recompiling all sources: number of invalidated sources > 50.0% of all sources
+[debug] compilation cycle 1
+[info] compiling 1 Scala source to /Users/s.yarkin/prj/lsml_hw7/target/scala-2.13/test-classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.4.2:compile for Scala 2.13.3
+[info] Non-compiled module 'compiler-bridge_2.13' for Scala 2.13.3. Compiling...
+[debug] Creating plain compiler interface for 2.13.3.
+[debug]   > Arguments: 
+[debug] 	-d
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_80125222
+[debug] 	-nowarn
+[debug] 	-bootclasspath
+[debug] 	/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar
+[debug] 	-classpath
+[debug] 	/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.4.2/compiler-interface-1.4.2.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.4.0/util-interface-1.4.0.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.13/1.4.2/compiler-bridge_2.13-1.4.2-sources.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.3/scala-compiler-2.13.3.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.3/scala-reflect-2.13.3.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.15.0/jline-3.15.0.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/scala/ZincCompat.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/API.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/AbstractZincFile.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/Analyzer.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/CallbackGlobal.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/ClassName.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/Compat.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/CompilerBridge.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/ConsoleBridge.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/DelegatingReporter.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/Dependency.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/ExtractAPI.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/ExtractUsedNames.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/GlobalHelpers.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/InteractiveConsoleBridge.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/InteractiveConsoleFactoryBridge.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/InteractiveConsoleHelper.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/InteractiveConsoleResponse.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/JarUtils.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/JavaUtils.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/LocalToNonLocalClass.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/LocateClassFile.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/Log.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/Message.scala
+[debug] 	/var/folders/9k/9_fj5_2966lddjmh2t_t6wjr0000gp/T/sbt_cab84604/xsbt/ScaladocBridge.scala
+[debug]       
+[info]   Compilation completed in 7.715s.
+[debug] [zinc] Running cached compiler 7e7b1d10 for Scala compiler version 2.13.3
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-bootclasspath
+[debug] 	/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar
+[debug] 	-classpath
+[debug] 	/Users/s.yarkin/prj/lsml_hw7/target/scala-2.13/test-classes:/Users/s.yarkin/prj/lsml_hw7/target/scala-2.13/classes:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.13/3.2.2/scalactic_2.13-3.2.2.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.13/3.2.2/scalatest_2.13-3.2.2.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.3/scala-reflect-2.13.3.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-core_2.13/3.2.2/scalatest-core_2.13-3.2.2.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-featurespec_2.13/3.2.2/scalatest-featurespec_2.13-3.2.2.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-flatspec_2.13/3.2.2/scalatest-flatspec_2.13-3.2.2.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-freespec_2.13/3.2.2/scalatest-freespec_2.13-3.2.2.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-funsuite_2.13/3.2.2/scalatest-funsuite_2.13-3.2.2.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-funspec_2.13/3.2.2/scalatest-funspec_2.13-3.2.2.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-propspec_2.13/3.2.2/scalatest-propspec_2.13-3.2.2.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-refspec_2.13/3.2.2/scalatest-refspec_2.13-3.2.2.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-wordspec_2.13/3.2.2/scalatest-wordspec_2.13-3.2.2.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-diagrams_2.13/3.2.2/scalatest-diagrams_2.13-3.2.2.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-matchers-core_2.13/3.2.2/scalatest-matchers-core_2.13-3.2.2.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-shouldmatchers_2.13/3.2.2/scalatest-shouldmatchers_2.13-3.2.2.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-mustmatchers_2.13/3.2.2/scalatest-mustmatchers_2.13-3.2.2.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-compatible/3.2.2/scalatest-compatible-3.2.2.jar:/Users/s.yarkin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/1.2.0/scala-xml_2.13-1.2.0.jar
+[debug] Scala compilation took 9.094895851 s
+[info] done compiling

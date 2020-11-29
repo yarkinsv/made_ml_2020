@@ -1,0 +1,11 @@
+[debug] > Exec(test, None, None)
+[debug] Evaluating tasks: Test / test
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[warn] Getting the hostname MSK-MBP11.local was slow (5003.176676 ms). This is likely because the computer's hostname is not set. You can set the hostname with the command: scutil --set HostName $(scutil --get LocalHostName).
+[info] Run completed in 79 milliseconds.
+[info] Total number of tests run: 0
+[info] Suites: completed 0, aborted 0
+[info] Tests: succeeded 0, failed 0, canceled 0, ignored 0, pending 0
+[info] No tests were executed.
+[success] Total time: 5 s, completed 7 нояб. 2020 г., 10:29:19
+[debug] > Exec(idea-shell, None, None)

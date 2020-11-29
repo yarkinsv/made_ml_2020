@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aceacb4d-21b1-4963-bb99-ad5186fd94ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ScalaTest Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jx7AU3rINiBklOyMadQ7puaHez" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="ScalaTest" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.ScalaTest" value="org.scalatest.FunSuite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.apache.spark.ml.made" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="org.scalatest.FunSuite" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.apache.spark.ml.made" />
+    </key>
+  </component>
+  <component name="RunManager" selected="ScalaTest.LinearRegressionTest">
+    <configuration name="LinearRegressionTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="lsml_hw7" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="org.apache.spark.ml.made.LinearRegressionTest" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearRegressionTest.Estimator should fit the model" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="lsml_hw7" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="org.apache.spark.ml.made.LinearRegressionTest" />
+      <option name="testName" value="Estimator should fit the model" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearRegressionTest.Model should make predictions" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="lsml_hw7" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="org.apache.spark.ml.made.LinearRegressionTest" />
+      <option name="testName" value="Model should make predictions" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StandardScalerTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="lsml_hw7" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="org.apache.spark.ml.made.StandardScalerTest" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StandardScalerTest.Model should scale input data" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="lsml_hw7" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="org.apache.spark.ml.made.StandardScalerTest" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.LinearRegressionTest" />
+        <item itemvalue="ScalaTest.LinearRegressionTest.Estimator should fit the model" />
+        <item itemvalue="ScalaTest.LinearRegressionTest.Model should make predictions" />
+        <item itemvalue="ScalaTest.StandardScalerTest" />
+        <item itemvalue="ScalaTest.StandardScalerTest.Model should scale input data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="lsml_hw7" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lsml_hw7 [file:/Users/s.yarkin/prj/lsml_hw7/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="lsml_hw7-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3209469376239" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1846887443" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3854236591" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aceacb4d-21b1-4963-bb99-ad5186fd94ad" name="Default Changelist" comment="" />
+      <created>1604733746013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604733746013</updated>
+      <workItem from="1604733750233" duration="8131000" />
+      <workItem from="1605306796430" duration="4000" />
+      <workItem from="1605451418947" duration="6000" />
+      <workItem from="1606665506785" duration="15428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="470" y="202" key="#Project_Structure" timestamp="1604734110254">
+      <screen x="60" y="23" width="1620" height="1027" />
+    </state>
+    <state x="470" y="202" key="#Project_Structure/1680.23.1366.745/60.23.1620.1027@60.23.1620.1027" timestamp="1604734110254" />
+    <state x="605" y="309" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1606674894025">
+      <screen x="58" y="23" width="1622" height="1027" />
+    </state>
+    <state x="608" y="309" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1680.23.1366.745/62.23.1618.1027@62.23.1618.1027" timestamp="1604738354838" />
+    <state x="605" y="309" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/58.23.1622.1027@58.23.1622.1027" timestamp="1606674894025" />
+    <state x="683" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1604736139600">
+      <screen x="62" y="23" width="1618" height="1027" />
+    </state>
+    <state x="683" y="241" key="#com.intellij.ide.util.MemberChooser/1680.23.1366.745/62.23.1618.1027@62.23.1618.1027" timestamp="1604736139600" />
+    <state x="83" y="343" key="#xdebugger.evaluate" timestamp="1606668729276">
+      <screen x="58" y="23" width="1622" height="1027" />
+    </state>
+    <state x="83" y="343" key="#xdebugger.evaluate/58.23.1622.1027@58.23.1622.1027" timestamp="1606668729276" />
+    <state width="1580" height="271" key="GridCell.Tab.0.bottom" timestamp="1606681398221">
+      <screen x="58" y="23" width="1622" height="1027" />
+    </state>
+    <state width="1578" height="280" key="GridCell.Tab.0.bottom/1680.23.1366.745/60.23.1620.1027@60.23.1620.1027" timestamp="1604735239593" />
+    <state width="1578" height="289" key="GridCell.Tab.0.bottom/1680.23.1366.745/62.23.1618.1027@62.23.1618.1027" timestamp="1604740057273" />
+    <state width="1580" height="271" key="GridCell.Tab.0.bottom/58.23.1622.1027@58.23.1622.1027" timestamp="1606681398221" />
+    <state width="1580" height="271" key="GridCell.Tab.0.center" timestamp="1606681398220">
+      <screen x="58" y="23" width="1622" height="1027" />
+    </state>
+    <state width="1578" height="280" key="GridCell.Tab.0.center/1680.23.1366.745/60.23.1620.1027@60.23.1620.1027" timestamp="1604735239592" />
+    <state width="1578" height="289" key="GridCell.Tab.0.center/1680.23.1366.745/62.23.1618.1027@62.23.1618.1027" timestamp="1604740057272" />
+    <state width="1580" height="271" key="GridCell.Tab.0.center/58.23.1622.1027@58.23.1622.1027" timestamp="1606681398220" />
+    <state width="1580" height="271" key="GridCell.Tab.0.left" timestamp="1606681398220">
+      <screen x="58" y="23" width="1622" height="1027" />
+    </state>
+    <state width="1578" height="280" key="GridCell.Tab.0.left/1680.23.1366.745/60.23.1620.1027@60.23.1620.1027" timestamp="1604735239591" />
+    <state width="1578" height="289" key="GridCell.Tab.0.left/1680.23.1366.745/62.23.1618.1027@62.23.1618.1027" timestamp="1604740057271" />
+    <state width="1580" height="271" key="GridCell.Tab.0.left/58.23.1622.1027@58.23.1622.1027" timestamp="1606681398220" />
+    <state width="1580" height="271" key="GridCell.Tab.0.right" timestamp="1606681398221">
+      <screen x="58" y="23" width="1622" height="1027" />
+    </state>
+    <state width="1578" height="280" key="GridCell.Tab.0.right/1680.23.1366.745/60.23.1620.1027@60.23.1620.1027" timestamp="1604735239593" />
+    <state width="1578" height="289" key="GridCell.Tab.0.right/1680.23.1366.745/62.23.1618.1027@62.23.1618.1027" timestamp="1604740057273" />
+    <state width="1580" height="271" key="GridCell.Tab.0.right/58.23.1622.1027@58.23.1622.1027" timestamp="1606681398221" />
+    <state width="1580" height="271" key="GridCell.Tab.1.bottom" timestamp="1606681398068">
+      <screen x="58" y="23" width="1622" height="1027" />
+    </state>
+    <state width="1578" height="345" key="GridCell.Tab.1.bottom/1680.23.1366.745/60.23.1620.1027@60.23.1620.1027" timestamp="1604734441631" />
+    <state width="1578" height="345" key="GridCell.Tab.1.bottom/1680.23.1366.745/62.23.1618.1027@62.23.1618.1027" timestamp="1604739801399" />
+    <state width="1580" height="271" key="GridCell.Tab.1.bottom/58.23.1622.1027@58.23.1622.1027" timestamp="1606681398068" />
+    <state width="1580" height="271" key="GridCell.Tab.1.center" timestamp="1606681398067">
+      <screen x="58" y="23" width="1622" height="1027" />
+    </state>
+    <state width="1578" height="345" key="GridCell.Tab.1.center/1680.23.1366.745/60.23.1620.1027@60.23.1620.1027" timestamp="1604734441628" />
+    <state width="1578" height="345" key="GridCell.Tab.1.center/1680.23.1366.745/62.23.1618.1027@62.23.1618.1027" timestamp="1604739801398" />
+    <state width="1580" height="271" key="GridCell.Tab.1.center/58.23.1622.1027@58.23.1622.1027" timestamp="1606681398067" />
+    <state width="1580" height="271" key="GridCell.Tab.1.left" timestamp="1606681398066">
+      <screen x="58" y="23" width="1622" height="1027" />
+    </state>
+    <state width="1578" height="345" key="GridCell.Tab.1.left/1680.23.1366.745/60.23.1620.1027@60.23.1620.1027" timestamp="1604734441627" />
+    <state width="1578" height="345" key="GridCell.Tab.1.left/1680.23.1366.745/62.23.1618.1027@62.23.1618.1027" timestamp="1604739801398" />
+    <state width="1580" height="271" key="GridCell.Tab.1.left/58.23.1622.1027@58.23.1622.1027" timestamp="1606681398066" />
+    <state width="1580" height="271" key="GridCell.Tab.1.right" timestamp="1606681398067">
+      <screen x="58" y="23" width="1622" height="1027" />
+    </state>
+    <state width="1578" height="345" key="GridCell.Tab.1.right/1680.23.1366.745/60.23.1620.1027@60.23.1620.1027" timestamp="1604734441630" />
+    <state width="1578" height="345" key="GridCell.Tab.1.right/1680.23.1366.745/62.23.1618.1027@62.23.1618.1027" timestamp="1604739801398" />
+    <state width="1580" height="271" key="GridCell.Tab.1.right/58.23.1622.1027@58.23.1622.1027" timestamp="1606681398067" />
+    <state x="535" y="293" width="1036" height="486" key="find.popup" timestamp="1606672634840">
+      <screen x="58" y="23" width="1622" height="1027" />
+    </state>
+    <state x="535" y="293" width="1036" height="486" key="find.popup/58.23.1622.1027@58.23.1622.1027" timestamp="1606672634840" />
+    <state x="638" y="270" key="org.jetbrains.plugins.scala.testingSupport.ScalaTestCreator$$anon$1$$anon$2" timestamp="1604736978660">
+      <screen x="62" y="23" width="1618" height="1027" />
+    </state>
+    <state x="638" y="270" key="org.jetbrains.plugins.scala.testingSupport.ScalaTestCreator$$anon$1$$anon$2/1680.23.1366.745/62.23.1618.1027@62.23.1618.1027" timestamp="1604736978660" />
+    <state x="632" y="150" key="refactoring.ChangeSignatureDialog" timestamp="1604738020575">
+      <screen x="62" y="23" width="1618" height="1027" />
+    </state>
+    <state x="632" y="150" key="refactoring.ChangeSignatureDialog/1680.23.1366.745/62.23.1618.1027@62.23.1618.1027" timestamp="1604738020575" />
+    <state x="532" y="250" width="672" height="676" key="search.everywhere.popup" timestamp="1606675237846">
+      <screen x="58" y="23" width="1622" height="1027" />
+    </state>
+    <state x="535" y="250" width="670" height="676" key="search.everywhere.popup/1680.23.1366.745/62.23.1618.1027@62.23.1618.1027" timestamp="1604735781460" />
+    <state x="532" y="250" width="672" height="676" key="search.everywhere.popup/58.23.1622.1027@58.23.1622.1027" timestamp="1606675237846" />
+  </component>
+</project>

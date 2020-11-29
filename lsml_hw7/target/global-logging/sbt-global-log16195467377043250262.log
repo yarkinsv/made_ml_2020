@@ -1,0 +1,19 @@
+[debug] > Exec(test, None, None)
+[debug] Evaluating tasks: Test / test
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to /Users/s.yarkin/prj/lsml_hw7/target/scala-2.13/test-classes ...
+[info] Non-compiled module 'compiler-bridge_2.13' for Scala 2.13.3. Compiling...
+[warn] Getting the hostname MSK-MBP11.local was slow (5004.867845 ms). This is likely because the computer's hostname is not set. You can set the hostname with the command: scutil --set HostName $(scutil --get LocalHostName).
+[info]   Compilation completed in 7.715s.
+[info] done compiling
+[info] StackSpec:
+[info] A Stack
+[info] - should pop values in last-in-first-out order
+[info] - should throw NoSuchElementException if an empty stack is popped
+[info] Run completed in 395 milliseconds.
+[info] Total number of tests run: 2
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 2, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[success] Total time: 10 s, completed 7 нояб. 2020 г., 10:31:51
+[debug] > Exec(idea-shell, None, None)

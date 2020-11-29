@@ -1,0 +1,1 @@
+[warn] Getting the hostname MSK-MBP11.local was slow (5004.867845 ms). This is likely because the computer's hostname is not set. You can set the hostname with the command: scutil --set HostName $(scutil --get LocalHostName).

@@ -1,0 +1,6 @@
+[debug] Created transactional ClassFileManager with tempDir = /Users/s.yarkin/prj/lsml_hw7/target/scala-2.13/test-classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	StackSpec.class
+[debug] Removing the temporary directory used for backing up class files: /Users/s.yarkin/prj/lsml_hw7/target/scala-2.13/test-classes.bak
